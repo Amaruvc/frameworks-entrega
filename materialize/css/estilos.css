@@ -1,0 +1,18 @@
+.logo {
+  width: 30%;
+}
+
+.redes-sociales div {
+  width: 4em;
+  margin: 2em auto;
+}
+
+.entrada img {
+  width: 50%;
+  float: left;
+  margin-right: 1.5em;
+}
+.autor img {
+  width: 50% !important;
+  margin-left: 25%;
+}
