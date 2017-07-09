@@ -1,0 +1,37 @@
+body {
+  background-image: url("../img/fondo.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+body * {
+    color: #5499c7;
+}
+.cabecera, .columna-lateral{
+  background-color:  rgba( 127, 179, 213, 0.75);
+}
+.cabecera * {
+  color: white !important;
+}
+.espacio-img {
+  padding: 0.5em 0;
+}
+.buscador button {
+  margin-left: 0.2em;
+}
+.foto-receta {
+  margin: 1.5em 0;
+}
+button, button i {
+  color: white !important;
+}
+.comentario-container {
+  padding: 1em;
+}
+.comentario-autor {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1em;
+}
+.comentario-nombre p {
+  margin-bottom: 0;
+}
