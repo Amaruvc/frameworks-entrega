@@ -1,0 +1,27 @@
+.logo-img {
+  min-width: 150px;
+}
+.logo-img img {
+  width: 100%;
+}
+.redes-sociales img {
+  width: 15%;
+}
+.redes-sociales {
+  text-align: right;
+}
+.glyphicon-user {
+  font-size: 4em;
+}
+.banda img {
+  margin-top: 2em;
+}
+body {
+  background-color: #e5e7e9;
+}
+.container {
+  background-color: white;
+}
+.barra-navegacion {
+  margin-top: 20px;
+}
